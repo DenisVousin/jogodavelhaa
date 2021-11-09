@@ -24,7 +24,7 @@ while(not ganhador):
     
     ganhador = verificaGanhador(board)
 
-print("####################")
+print("###################")
 #printBoard(board)
 print("Ganhador = ", ganhador)
-print("####################")
+print("###################")
